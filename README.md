@@ -9,6 +9,6 @@ Let's change the command I highlighted to connect to the database.
 
 Sql files includes user.json & post.json: https://drive.google.com/drive/folders/1KCC2DPuf8GpeawyIRnLswY5VcKsnQ05z?usp=sharing
 
-#API 
+# API 
 1. CRUD User
 2. CRUD Post
