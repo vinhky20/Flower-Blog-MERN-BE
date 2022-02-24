@@ -2,7 +2,7 @@
 Express Server for Flower Blog Project : https://github.com/vinhky20/Flower-Blog-MERN-FE
 
 # HOW TO USE
-My project use databse in local. Before using, we must config dababase in directory: config/db/index.js. 
+My project use database in local. Before using, we must config dababase in directory: config/db/index.js. 
 Let's change the command I highlighted to connect to the database.
 
 ![image](https://user-images.githubusercontent.com/59040451/155462008-e8ea9e03-14f8-487b-99d8-2f150f9c8106.png)
